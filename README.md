@@ -18,7 +18,7 @@ This project is a simple SCSS compiler that automates the process of converting 
    cd simple-scss-compilator
 
 3. Install the project dependencies.
-   npm install
+   `npm install`
 
 ## Usage
 
