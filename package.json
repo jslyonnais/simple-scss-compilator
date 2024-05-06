@@ -1,0 +1,13 @@
+{
+  "name": "scss-compilator",
+  "version": "1.0.0",
+  "description": "super simple scss compilator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch input.scss:output/styles.css",
+    "build": "sass input.scss:output/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jslyonnais",
+  "license": "ISC"
+}
